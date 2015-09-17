@@ -1,2 +1,0 @@
-# marsRover
-Project Mars Rover
